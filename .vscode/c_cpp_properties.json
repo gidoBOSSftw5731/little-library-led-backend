@@ -3,12 +3,14 @@
         {
             "name": "Linux",
             "includePath": [
+                "/home/gido5731/Arduino/libraries/Arduino_JSON/src",
                 "/home/gido5731/Arduino/libraries/ArduinoJson/src",
                 "/home/gido5731/.arduino15/packages/esp8266/tools/**",
-                "/home/gido5731/.arduino15/packages/esp8266/hardware/esp8266/2.5.2/**"
+                "/home/gido5731/.arduino15/packages/esp8266/hardware/esp8266/2.5.2/**",
+                "/home/gido5731/.arduino15/packages/esp8266/hardware/esp8266/2.7.1/**"
             ],
             "forcedInclude": [],
-            "intelliSenseMode": "gcc-x64",
+            "intelliSenseMode": "${default}",
             "compilerPath": "/usr/bin/gcc",
             "cStandard": "c11",
             "cppStandard": "c++17"
